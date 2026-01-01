@@ -9,7 +9,7 @@ Atom Music Bot collects certain data to provide and improve our service. If you 
 If you create playlists within Atom Music, the songs, their metadata, and your user ID are stored to manage your playlist. This data helps the bot to serve you better and personalize your music experience, but it is not shared with third parties.
 
 ## 3. Premium Subscriber Data
-For users who subscribe to premium services, we store basic information, including your user ID, username and email, to verify your subscription. All these data are provided by our Payment Processor [Patreon](https://patreon.com) This data is used solely for validation purposes to ensure you have access to premium features. For more information on how your data is handle and or processed including your payment details, consider visiting Patreon's Privacy Policy.
+For users who subscribe to premium services, we store basic information, including your user ID, username and email, to verify your subscription. All these data are provided by our Payment Processor [Patreon](https://patreon.com) This data is used solely for validation purposes to ensure you have access to premium features. For more information on how your data is handled and or processed including your payment details, consider visiting Patreon's Privacy Policy.
 
 ## 4. Server and Command Data
 Atom Music stores basic server-related information, such as server ID, connected channel ID, text channel ID, and bot permissions. We also track how many commands are used within each guild to monitor usage and gather anonymous analytics.
